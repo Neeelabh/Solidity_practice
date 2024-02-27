@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidity_practice/arrays.sol": "aerr"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidity_practice/arrays.sol": {
+			"keccak256": "0x56ce8359741f1c26d2b0b999937cc5e1f2ce9658111b209b158d29f9523f6966",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f0ac091f5af4e9cde8086983a751d7fbee2ae64812d73099d847e12aa9c2bd6f",
+				"dweb:/ipfs/QmVHsKzUnVfQxy5vBwN7vYeyrfELs3WRWdJ4gsk2Fy7fGd"
+			]
+		}
+	},
+	"version": 1
+}
